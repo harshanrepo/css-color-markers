@@ -6,7 +6,7 @@ A simple and creative CSS design project that recreates colored markers using HT
 
 🚀 Live Demo
 
-👉 
+👉 https://harshanrepo.github.io/css-color-markers/
 
 ---
 
